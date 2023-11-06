@@ -1,0 +1,9 @@
+https://mecls.medium.com/usando-python-para-transcri%C3%A7%C3%A3o-de-%C3%A1udio-e-v%C3%ADdeos-em-portugu%C3%AAs-4f40a12aaf93
+
+https://medium.com/turing-talks/processando-l%C3%ADngua-falada-com-python-3b3fe31118be#:~:text=SpeechRecognition%20library%20%C3%A9%20uma%20biblioteca,e%20instalar%20as%20ferramentas%20necess%C3%A1rias.
+
+https://www.youtube.com/watch?v=49zJeg76YSk&t=666s
+
+https://www.youtube.com/watch?v=OEPkmsJmY2I
+https://www.gyan.dev/ffmpeg/builds/
+https://pt.wikihow.com/Instalar-o-FFmpeg-no-Windows
